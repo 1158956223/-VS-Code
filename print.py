@@ -3,3 +3,4 @@ for item in lis:
     print(item)
 print('wzj')
 print('lxr')
+print('wzj love lxr')
